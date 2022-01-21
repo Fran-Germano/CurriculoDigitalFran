@@ -48,7 +48,7 @@ input:checked ~ main .informacoesContatoPortifolio__trocarModo label span{
 	transform: translateX(30px);
 }
 input:checked ~ footer{
-	background-color:#363636;
+	background-color:#000000;
 }
 
 
