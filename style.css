@@ -192,7 +192,9 @@ section ul li strong{
 }
 .informacoesExperienciaPortifolio__experiencia ul li h3{}
 .informacoesExperienciaPortifolio__experiencia ul li strong{}
-.informacoesExperienciaPortifolio__experiencia ul li p{}
+.informacoesExperienciaPortifolio__experiencia ul li p{
+	text-align: justify;
+}
 
 .informacoesExperienciaPortifolio__cargos{
     border-top: 1px solid #C0C0C0;
