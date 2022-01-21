@@ -107,6 +107,10 @@ main .column--direita{
     color: inherit;
 }
 
+.informacoesContatoPortifolio__descricao ul li p{
+	font-size: 14px;
+}
+
 .informacoesContatoPortifolio__trocarModo{
 	margin-top: 30px;
 }
