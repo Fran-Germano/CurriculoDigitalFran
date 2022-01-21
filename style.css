@@ -179,6 +179,10 @@ section ul li strong{
 .informacoesExperienciaPortifolio__formacao ul li{}
 .informacoesExperienciaPortifolio__formacao ul li p{}
 
+.informacoesExperienciaPortifolio__cursos ul li p{
+	text-align: justify;
+}
+
 .informacoesExperienciaPortifolio__experiencia{
 	margin-bottom: 15px;
     border: none;
